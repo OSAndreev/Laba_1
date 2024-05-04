@@ -1,3 +1,5 @@
+package Books;
+
 public abstract class Textbook implements Book {
     protected String title;
     protected String author;
@@ -10,7 +12,7 @@ public abstract class Textbook implements Book {
         this.author = author;
         this.publishYear = publishYear;
         this.language = language;
-        this.type = "Textbook";
+        this.type = "Books.Textbook";
     }
 
     @Override

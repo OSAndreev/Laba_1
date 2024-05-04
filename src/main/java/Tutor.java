@@ -1,3 +1,5 @@
+import Books.Book;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -16,6 +18,15 @@ public class Tutor extends AbstractHuman {
 
     public List<Book> getBooks() {
         return books;
+    }
+
+    public String getThirdName() {
+        return thirdName;
+    }
+
+    @Override
+    public String getInfo(){
+        return this.getFirstName() + " " + this.getLastName() + " " + this.getThirdName();
     }
 }
 

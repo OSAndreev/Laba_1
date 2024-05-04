@@ -1,3 +1,5 @@
+import Books.Book;
+
 import javax.swing.JFrame;
 import javax.swing.JTree;
 import javax.swing.JScrollPane;
@@ -12,7 +14,8 @@ public class LibraryGUI {
     private JTree tree;
     private DefaultTreeModel model;
 
-    public LibraryGUI(List<AbstractHuman> users) {
+    public LibraryGUI(Library library) {
+        List<AbstractHuman> users = library.getUsers();
         frame = new JFrame("Library Records");
         DefaultMutableTreeNode root = new DefaultMutableTreeNode("Library");
         model = new DefaultTreeModel(root);
@@ -31,7 +34,7 @@ public class LibraryGUI {
         DefaultMutableTreeNode tutorsNode = new DefaultMutableTreeNode("Tutors");
 
         for (AbstractHuman user : users) {
-            DefaultMutableTreeNode userNode = new DefaultMutableTreeNode(user.getFirstName() + " " + user.getLastName());
+            DefaultMutableTreeNode userNode = new DefaultMutableTreeNode(user.getInfo());
 
             Map<String, DefaultMutableTreeNode> booksByLanguage = new HashMap<>();
             booksByLanguage.put("Russian", new DefaultMutableTreeNode("Russian Books"));

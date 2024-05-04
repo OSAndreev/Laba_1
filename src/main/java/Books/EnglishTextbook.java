@@ -1,8 +1,11 @@
+package Books;
+
 public class EnglishTextbook extends Textbook {
     private String level; // Bachelor's or Master's
 
-    public EnglishTextbook(String title, String author, int publishYear, String level) {
-        super(title, author, publishYear, "English");
+    public EnglishTextbook(String university, String coursera, String author, int publishYear, String level) {
+        super(author + " " + university + ": " + coursera  + " for " + level + " (" + publishYear + ")",
+                author, publishYear, "English");
         this.level = level;
     }
 

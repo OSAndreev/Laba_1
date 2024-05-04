@@ -1,3 +1,5 @@
+import Books.Book;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -29,5 +31,9 @@ public abstract class AbstractHuman {
 
     public List<Book> getBooks() {
         return books;
+    }
+
+    public String getInfo(){
+        return this.getFirstName() + " " + this.getLastName();
     }
 }

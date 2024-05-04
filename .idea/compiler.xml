@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sem4_laba_1" target="1.5" />
+      <module name="sem4_laba_1" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>

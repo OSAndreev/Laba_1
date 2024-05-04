@@ -1,14 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="08730302-a8fa-46bc-97eb-6df15273536f" name="Changes" comment="" />
+    <list default="true" id="08730302-a8fa-46bc-97eb-6df15273536f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sem4_laba_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sem4_laba_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Books/EnglishFictionbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/EnglishFictionbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Books/EnglishTextbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/EnglishTextbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Books/Fictionbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/Fictionbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Books/FictionbookFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/FictionbookFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Books/RussianFictionbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/RussianFictionbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Books/RussianTextbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/RussianTextbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Books/Textbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/Textbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Books/TextbooksFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/TextbooksFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FictionBooksFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LibraryGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LibraryGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PersonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PersonFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PersonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PersonGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TextbookFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tutor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2e8mZflGgH2oWychv8thFs6cXre" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,13 +62,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +85,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711294638034</updated>
+      <workItem from="1711294639627" duration="1941000" />
+      <workItem from="1712139175924" duration="11140000" />
+      <workItem from="1713713745739" duration="14307000" />
+      <workItem from="1714725044383" duration="3852000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
