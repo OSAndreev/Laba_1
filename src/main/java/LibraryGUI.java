@@ -55,9 +55,9 @@ public class LibraryGUI {
                 userNode.add(booksByLanguage.get("English"));
             }
 
-            if (user instanceof Student) {
+            if (user.getRole().equals("student")) {
                 studentsNode.add(userNode);
-            } else if (user instanceof Tutor) {
+            } else if (user.getRole().equals("tutor")) {
                 tutorsNode.add(userNode);
             }
         }

@@ -14,6 +14,11 @@ public class Student extends AbstractHuman {
         books.add(book);
     }
 
+    @Override
+    public String getRole() {
+        return "student";
+    }
+
     public List<Book> getBooks() {
         return books;
     }

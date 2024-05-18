@@ -5,30 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08730302-a8fa-46bc-97eb-6df15273536f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sem4_laba_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sem4_laba_1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AbstractHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractHuman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Books/EnglishFictionbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/EnglishFictionbook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Books/EnglishTextbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/EnglishTextbook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Books/Fictionbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/Fictionbook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Books/FictionbookFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/FictionbookFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Books/RussianFictionbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/RussianFictionbook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Books/RussianTextbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/RussianTextbook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Books/Textbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/Textbook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Books/TextbooksFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Books/TextbooksFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FictionBooksFactory.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LibraryGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LibraryGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PersonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PersonFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PersonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PersonGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TextbookFactory.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Tutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AbstractHuman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AbstractHuman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Books/TextbooksFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Books/TextbooksFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LibraryGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LibraryGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PersonFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PersonFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PersonGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PersonGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TextbookFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tutor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +67,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -88,7 +82,8 @@
       <workItem from="1711294639627" duration="1941000" />
       <workItem from="1712139175924" duration="11140000" />
       <workItem from="1713713745739" duration="14307000" />
-      <workItem from="1714725044383" duration="3852000" />
+      <workItem from="1714725044383" duration="5540000" />
+      <workItem from="1716012444805" duration="3162000" />
     </task>
     <servers />
   </component>
@@ -105,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

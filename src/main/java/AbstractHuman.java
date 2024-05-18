@@ -36,4 +36,6 @@ public abstract class AbstractHuman {
     public String getInfo(){
         return this.getFirstName() + " " + this.getLastName();
     }
+
+    abstract public String getRole();
 }

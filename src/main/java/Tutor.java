@@ -25,6 +25,11 @@ public class Tutor extends AbstractHuman {
     }
 
     @Override
+    public String getRole() {
+        return "tutor";
+    }
+
+    @Override
     public String getInfo(){
         return this.getFirstName() + " " + this.getLastName() + " " + this.getThirdName();
     }

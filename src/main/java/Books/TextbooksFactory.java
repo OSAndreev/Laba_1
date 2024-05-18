@@ -105,5 +105,5 @@ public class TextbooksFactory{
         String sub = subjects.get(random.nextInt(subjects.size()));
         String litype = littype .get(random.nextInt(littype .size()));
         int randomYear = random.nextInt(2023 - 1960 + 1) + 1960;
-        return new RussianTextbook(fakeSurname,  sub ,  litype, randomYear);
+        return new RussianTextbook(sub , litype, fakeSurname, randomYear);
     }}
